@@ -1,0 +1,20 @@
+{
+  "Home": "Inicio",
+  "Predictions": "Predicciones",
+  "Model": "Modelo",
+  "Search": "Buscar",
+  "Total deaths": "Fallecidos totales",
+  "Spain": "España",
+  "Daily deaths": "Número de fallecimientos diarios",
+  "Percentage of the population infected": "Porcentaje de la poblacion infectada",
+  "Other countries": "Otros paises",
+  "Table of contents": "Tabla de contenidos",
+  "We developed a novel probabilistic model to estimate the spread of COVID-19.": "Hemos creado un modelo probabilistico para estimar el alcance del COVID-19 en cada región y comunidad.",
+  "Predicting the spread of COVID-19": "Predicciones del alcance del COVID-19",
+  "How it works": "Acerca del modelo",
+  "Quote": "Cita",
+  "Note": "Nota",
+  "Model description": "Descripcion del modelo",
+  "t-citation": "Los resultados del análisis preliminar llevados a cabo en nuestro estudio están todavía en revisión por la comunidad científica. La publicación está a disposición en",
+  "t-description": "Nuestro sistema predictivo ha sido diseñado utilizando las publicaciones más recientes que describen la dinámica del SARS-CoV-2 y hemos creado un simulador que genera trayectorias de posibles escenarios de manera realista, basándose en los supuestos de cómo se propaga el virus. Utilizando los datos de los fallecimientos reportados por COVID-19, entrenamos nuestro modelo para encontrar la configuración más probable que explican en promedio, los fallecimientos observados en distintas regiones y comunidades."
+}

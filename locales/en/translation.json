@@ -1,0 +1,4 @@
+{
+  "Predicting the spread of COVID-19": "Predicting the spread of COVID-19",
+  "::Description::": "We curated the model using the most recent publications describing the dynamics of the SARS-CoV-2 virus and we created a simulator that generates trajectories of possible scenarios in a realistic way, based on the assumptions of how the virus spreads. Using data from the observed fatalities, we trained our model to find the most probable configuration that leads, on average, to the observed number of fatalities."
+}
