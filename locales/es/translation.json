@@ -13,6 +13,7 @@
   "Other countries": "Otros países",
   "Table of contents": "Tabla de contenidos",
   "We developed a novel probabilistic model to estimate the spread of COVID-19.": "Hemos creado un modelo probabilístico para estimar el alcance del COVID-19 en cada región y comunidad.",
+  "The estimation of seroprevalence in La Rioja may be overestimated due to higher than normal IFR": "La estimación de la seroprevalencia en La Rioja puede estar sobreestimada debido a una IFR más alta de lo normal en esta comunidad",
   "Predicting the spread of COVID-19": "Predicciones del alcance del COVID-19",
   "We are currently training our models using the data provided by": "Para entrenar los modelos, estamos usando los datos proporcionados por",
   "How it works": "Acerca del modelo",
