@@ -88,7 +88,15 @@
      <lastmod>2020-05-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://www.github.com/covid19-modeling/reports/EU/DK/</loc>
+     <lastmod>2020-05-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://www.github.com/covid19-modeling/reports/EU/FR/</loc>
+     <lastmod>2020-05-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.github.com/covid19-modeling/reports/EU/IT/</loc>
      <lastmod>2020-05-20</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -101,6 +109,10 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.github.com/covid19-modeling/reports/US/US-PR/</loc>
+     <lastmod>2020-05-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.github.com/covid19-modeling/reports/EU/ES/</loc>
      <lastmod>2020-05-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
