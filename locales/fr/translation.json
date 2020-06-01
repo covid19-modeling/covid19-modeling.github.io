@@ -33,5 +33,19 @@
   "Model description": "Description du modèle",
   "t-citation": "Les résultats de l'analyse préliminaire réalisée dans notre étude sont toujours en cours d'examen par la communauté scientifique. La publication est disponible sur",
   "t-description": "Notre système prédictif a été conçu en utilisant les dernières publications décrivant la dynamique du SRAS-CoV-2. Sur la base de ces données, nous avons créé un simulateur qui génère des millions de trajectoires d'événements possibles depuis le début de la pandémie, en nous basant sur des hypothèses de propagation du virus. En utilisant les données des rapports de décès dus au COVID-19, nous avons construit notre modèle pour trouver la configuration la plus probable pour trouver la configuration la plus probable qui explique, en moyenne, les décès observés dans différentes régions et communautés",
-  "t-release-code": "Nous travaillons à la publication du code et des notebooks avec des exemples d'utilisation."
+  "t-release-code": "Le code est disponible à l'adresse suivante:",
+  "The principal contributors of this project are:": "Les principaux collaborateurs de ce projet sont:",
+  "Quote": "Cita",
+  "Note": "Nota",
+  "About": "Acerca del proyecto",
+  "French": "Français",
+  "t-about-a": "Nous sommes une équipe multidisciplinaire de chercheurs de différents domaines, dont l'objectif est de développer de meilleurs modèles pour comprendre la propagation du nouveau coronavirus SARS-CoV-2 (COVID-19). Ce projet a été motivé par une étude antérieure qui a mis en évidence certaines des limites des modèles mathématiques actuels dans le contexte de COVID-19:",
+  "t-about-b": "L'objectif principal de ce projet est de développer un modèle probabiliste qui peut estimer avec précision les véritables niveaux d'infection (ou séroprévalence) dans la population, en utilisant uniquement les données sur les décès enregistrés causés par COVID-19. Le modèle peut également être adapté pour prédire l'évolution du virus",
+  "Contributions & Acknowledgements": "Remerciements et contributions",
+  "t-marcos": "Diplôme de mathématiques, maîtrise en statistiques (Université de Saint-Jacques de Compostelle, USC). Chercheur à l'unité d'épidémiologie clinique de l'hôpital clinique universitaire (Saint-Jacques de Compostelle) et au Centre Singular de Investigación en Tecnologias Inteligentes (CiTIUS, USC).",
+  "t-carlos":"Étudiant en double diplôme de mathématiques et de physique, USC.",
+  "t-pablo": "Diplômé en ingénierie informatique, Master en intelligence artificielle, Doctorat en informatique et intelligence artificielle (CiTIUS, USC). Chercheur post-doctoral en bioinformatique et biologie systémique à l'INRAE Toxalim, Toulouse, France.",
+  "t-victor": "Diplôme de physique, doctorat en vision par ordinateur (CiTIUS, USC). Chercheur au Laboratoire de neurosciences computationnelles (LANCON, USC) 2005-2010. Chercheur au Centre de recherche en chimie biologique et matériaux moléculaires (CIQUS) (2010-présent).",
+  "A detailed description about the model can be found in the following preprint:": "Une description détaillée du modèle se trouve dans le preprint:",
+  "Translations": "Traductions"
 }
